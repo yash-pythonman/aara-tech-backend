@@ -1,0 +1,12 @@
+black==19.10b0
+cryptography==3.4.7
+Django==3.1.3
+django-cors-headers==3.6.0
+django-environ==0.4.5
+django-rest-framework-social-oauth2==1.1.0
+django-service-objects==0.7.0
+djangorestframework==3.12.2
+isort==4.3.21
+oauthlib==3.1.0
+social-auth-app-django==4.0.0
+social-auth-core==4.1.
